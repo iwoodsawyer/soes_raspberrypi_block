@@ -1,3 +1,8 @@
+# mex file extensions
+*.mexa64
+*.mexmaci64
+*.mexw64
+
 # Prerequisites
 *.d
 
@@ -18,7 +23,7 @@
 
 # Libraries
 *.lib
-*.a
+# *.a (do not ignore compiled library for raspberry pi)
 *.la
 *.lo
 
