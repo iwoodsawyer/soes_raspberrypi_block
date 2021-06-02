@@ -17,8 +17,9 @@
 #endif
 #endif
 
+#ifndef BYTE_NUM
 #define BYTE_NUM 32 // or 16, 64, 128
-
+#endif
 
 /* Object dictionary storage */
 
